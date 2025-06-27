@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS 1  
+﻿#define _CRT_SECURE_NO_WARNINGS 1  
 #include <stdio.h> //头文件
 int main()  //主函数
 { 

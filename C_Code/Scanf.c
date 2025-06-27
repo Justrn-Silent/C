@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS 1
+﻿#define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>	
 int main() {
 	int sc = 0;
@@ -52,5 +52,5 @@ int main() {
         Run-Time Check Failure #2 - Stack around the variable 'f' was corrupted
         (Press Retry to debug the application)
         */
- 
+        return 0;
 }

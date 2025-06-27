@@ -54,5 +54,14 @@ int main() {
     }else{
         printf("奇数\n");
     }
+    /*
+    IF语句有：
+    if-else
+    if
+    if-else if
+    其中if-else if是if-else的升级版
+    if语句运行逻辑：
+    if(结果为:真True，或者是结果为非零){}
+    */
 	return 0;
 }
